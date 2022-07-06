@@ -1,16 +1,26 @@
-# tip_calculator_app
+[![shared_preferences: ^2.0.15](https://img.shields.io/badge/shared_preferences%3A-%20^2.0.15-blue.svg?style=flat)](https://pub.dev/packages/shared_prefences)
+[![provider: ^6.0.3](https://img.shields.io/badge/provider%3A-%20^6.0.3-blue.svg?style=flat)](https://pub.dev/packages/provider)
 
-A new Flutter project.
+# Tip Calulator - Calculadora de Gorjeta
 
-## Getting Started
+Este é um pequeno projeto desenvolvido totalmente em Flutter, e com o foco principal em aprimorar minhas habilidades na utilização de temas e também minha logica no flutter.
 
-This project is a starting point for a Flutter application.
+## :computer: Recursos Utilizados: 
 
-A few resources to get you started if this is your first Flutter project:
+Necessário realizar a instalação das aplicações/frameworks abaixo:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[Flutter](https://docs.flutter.dev/get-started/install*)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚩 Bibliotecas Utilizadas no Projeto: 
+
+- **[Shared Preferences](https://pub.dev/packages/shared_preferences)**
+- **[Provider](https://pub.dev/packages/provider)**
+
+## :fire: Como Clonar e Importar
+
+1) Faça um fork do projeto (precisa ter uma conta no github)
+2) Abra o terminal do Visual Studio Code
+3) Acesse a pasta onde deseja salvar o aplicativo e digite: git clone link_do_projeto_no_seu_github_ConsumeApi_Flutter
+4) Clique em File --> Open e abra o projeto
+5) Nao esqueça de abrir o arquivo pubspec.yaml e salvar(CTRL + S) o arquivo para que os plugins sejam baixados // Ou build os plugins com -pub get- no terminal
+
